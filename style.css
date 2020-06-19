@@ -1,0 +1,25 @@
+.navbar li:hover{
+    background: #5d6968;
+}
+.container h1{
+	color: #5d6968;
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	padding-top: 8%;
+}
+.container h4{
+	color: #5d6968;
+	text-align: center;
+	padding-top: 1%;
+}
+.row{
+	padding: 2%;
+}
+.bottom{
+	background: #e0e0d1;
+}
+
+
+
+
